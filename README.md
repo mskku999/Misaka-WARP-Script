@@ -1,4 +1,4 @@
-# Misaka WARP 脚本
+# Misaka WARP 脚本（修复完毕，可以正常使用）
 
 支持手工菜单+全自动化脚本安装。支持AMD64、ARM64和S390X CPU架构的VPS、支持KVM、ZVM、OpenVZ和LXC虚拟化架构的VPS
 
